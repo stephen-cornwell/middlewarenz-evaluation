@@ -49,7 +49,7 @@ namespace WebApi.Tests.Integration
         }
 
         [Fact]
-        public async void Get_ShouldReturnXmlCompanyModel_WithKnownId()
+        public async void Get_ShouldReturnCompanyModel_WithKnownId()
         {
             // Arrange
             var knownId = 2;

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repo contians a solution to the Middleware New Zealand evaluation: https://github.com/georgeyucao/evaluation-instructions/
+This repo contians a solution to the Middleware New Zealand evaluation: https://github.com/MiddlewareNewZealand/evaluation-instructions 
 
 ## Solution
 
